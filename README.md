@@ -1,3 +1,7 @@
+
+![My Banner](gitback.jpg)
+
+
 # 👋 Hi there, I'm Eyobed Sebrala!
 
 🎓 **Computer Science Graduate** | 💻 **Backend Developer (Django)** | 🎨 **Graphics Designer**  
